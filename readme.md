@@ -1,4 +1,4 @@
-# Hello Cloud Enthusiast
+# Hello Cloud Enthusiast :smiley: :fire:
 
 > Welcome to my AZ - 104 certification notes.
 
