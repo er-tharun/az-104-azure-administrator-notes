@@ -15,6 +15,7 @@
    - [Deploy Azure infrastructure by using JSON ARM templates](https://github.com/er-tharun/az-104-azure-administrator-notes/blob/main/1.Prerequisites%20for%20Azure%20administrators/5.Deploy%20Azure%20infrastructure%20by%20using%20JSON%20ARM%20templates/readme.md)
 
 2. **Manage identities and governance in Azure**
+   - [Understand Microsoft Entra ID](https://github.com/er-tharun/az-104-azure-administrator-notes/blob/main/2.Manage%20identities%20and%20governance%20in%20Azure/1.Understand%20Microsoft%20Entra%20ID/readme.md)
 3. **Configure and manage virtual networks for Azure administrators**
    - [Configure virtual networks](https://github.com/er-tharun/az-104-azure-administrator-notes/blob/main/3.Configure%20and%20manage%20virtual%20networks%20for%20Azure%20administrators/1.Configure%20virtual%20networks/readme.md)
    - [Configure network security groups](https://github.com/er-tharun/az-104-azure-administrator-notes/blob/main/3.Configure%20and%20manage%20virtual%20networks%20for%20Azure%20administrators/2.Configure%20network%20security%20groups/readme.md)
